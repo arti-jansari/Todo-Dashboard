@@ -1,0 +1,17 @@
+button {
+    border: 1px solid grey;
+    padding: 4px 7px;
+    box-shadow: 2px 2px grey;
+  }
+  button:hover {
+    color: white;
+    background-color: grey;
+  }
+  textarea:hover{
+    color: white;
+    background-color: grey;
+  }
+  input:hover{
+    color: white;
+    background-color: grey;
+  }
